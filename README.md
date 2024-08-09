@@ -15,4 +15,5 @@ Thanawat & Kittiphum
   - Dowloand any vertion
 
 |html|css|
+|:---:|:---:|
 |✅|✅|
