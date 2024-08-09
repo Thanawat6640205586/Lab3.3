@@ -10,6 +10,6 @@ Thanawat & Kittiphum
 
 ## Code
 - ``git``
- - Dowloand any vertion
+  - Dowloand any vertion
 - ``VScode``
- - Dowloand any vertion
+  - Dowloand any vertion
