@@ -3,6 +3,7 @@
 Thanawat & Kittiphum
 
 ## File
--images 2
--index.html
--bluestyle.css
+- images 2
+- index.html
+- bluestyle.css
+- README.md
