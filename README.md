@@ -8,7 +8,7 @@ Thanawat & Kittiphum
 - bluestyle.css
 - README.md
 
-## Code
+## Progarm
 - ``git``
   - Dowloand any vertion
 - ``VScode``
